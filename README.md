@@ -84,7 +84,7 @@ A Sudoku project focused on logical problem-solving.
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anayush87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook"
     alt="Most Used Programming Languages"
   />
 </div>
