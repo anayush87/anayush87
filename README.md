@@ -100,6 +100,7 @@ My practice repository for learning and implementing data structures and algorit
 ## 📫 Connect
 
 - **GitHub:** [@anayush87](https://github.com/anayush87)
+- **Mail at:** [anayush87@gmail.com](mailto:anayush87@gmail.com
 - **Explore my repositories:** [github.com/anayush87?tab=repositories](https://github.com/anayush87?tab=repositories)
 
 ---
