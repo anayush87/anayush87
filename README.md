@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi there, I'm Ayush Anand 👋
@@ -17,15 +18,17 @@ Building practical applications with **Java, Spring Boot, MERN, and Generative A
 
 - 🎓 B.Tech Computer Science and Engineering student at **Galgotias University**.
 - 💻 Interested in **full-stack development, backend engineering, databases, and AI-powered applications**.
+- ☕ Particularly interested in **Java, Spring Boot, and backend development**.
 - 🌱 Currently strengthening my skills in **Data Structures & Algorithms, Generative AI, and cloud-based AI development**.
-- 🛠️ I enjoy turning ideas into useful applications, from REST APIs and database-backed platforms to AI assistants.
-- 🤝 Open to collaborating on interesting software, web development, and AI projects.
+- 🛠️ I enjoy building practical applications, REST APIs, database-driven platforms, and AI assistants.
+- 🤝 Open to collaborating on software development, web development, and AI projects.
 
 ---
 
 ## 🧰 Tech Stack
 
-### Languages
+### ☕ Languages
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,16 +36,18 @@ Building practical applications with **Java, Spring Boot, MERN, and Generative A
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend, Web & Databases
+### ⚙️ Backend, Web & Databases
+
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
 
-### AI, Cloud & Tools
+### 🤖 AI, Cloud & Tools
+
 ![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white)
@@ -56,43 +61,54 @@ Building practical applications with **Java, Spring Boot, MERN, and Generative A
 ## 🚀 Featured Projects
 
 ### 🛡️ [NIDS_IBM](https://github.com/anayush87/NIDS_IBM)
-Network Intrusion Detection model built on IBM Cloud.
 
-**Tech:** Jupyter Notebook, IBM Cloud
+A Network Intrusion Detection System project built using IBM Cloud technologies.
+
+**Focus:** Network security, intrusion detection, IBM Cloud, Jupyter Notebook
 
 ### 💰 [PERSONAL-FINANCE-MANAGEMENT-PLATFORM](https://github.com/anayush87/PERSONAL-FINANCE-MANAGEMENT-PLATFORM)
-Personal finance web application to manage daily expenses.
+
+A personal finance management application designed to help users manage daily expenses.
 
 **Tech:** Java
 
 ### 🏥 [ReMed](https://github.com/anayush87/remed)
-Medical equipment management and sharing platform designed to help healthcare providers list, discover, and request reusable medical equipment.
 
-**Tech:** JavaScript
+A medical equipment management and sharing platform designed to help healthcare providers list, discover, and request reusable medical equipment.
+
+**Tech:** JavaScript, MERN stack
 
 ### 🏙️ [SmartUrbanPlanning](https://github.com/anayush87/SmartUrbanPlanning)
-AI-powered urban planning decision-support system that analyzes city data and user inputs to recommend smarter infrastructure and resource allocation.
 
-**Tech:** Java
+An AI-powered urban planning decision-support project focused on smarter infrastructure and resource allocation.
+
+**Focus:** AI-assisted planning, urban development
 
 ### 🧩 [SUDOKU](https://github.com/anayush87/SUDOKU)
+
 A Sudoku project focused on logical problem-solving.
 
 **Tech:** Python
 
+---
+
 ## ☕ Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=Jupyter%20Notebook" alt="Most Used Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&hide=Jupyter%20Notebook" alt="Most Used Programming Languages" />
+
 </div>
+
+---
 
 ## 💡 Areas I'm Exploring
 
-- Backend development with **Java and Spring Boot**
-- Full-stack application development
-- Generative AI, prompt engineering, and Retrieval-Augmented Generation (RAG)
-- Cloud-based AI applications
-- Data Structures & Algorithms and problem-solving
+- ☕ Java and Spring Boot backend development
+- 🌐 Full-stack web application development
+- 🧠 Generative AI, prompt engineering, and Retrieval-Augmented Generation (RAG)
+- ☁️ Cloud-based AI applications
+- 🧩 Data Structures & Algorithms and problem-solving
 
 ---
 
@@ -100,10 +116,9 @@ A Sudoku project focused on logical problem-solving.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=anayush87&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anayush87&theme=tokyonight&hide_border=true" alt="Ayush's GitHub streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anayush87&show_icons=true&theme=tokyonight&hide_border=true" alt="Ayush's GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anayush87&theme=tokyonight&hide_border=true" alt="Ayush's GitHub contribution streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=anayush87&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" />
 
@@ -111,11 +126,11 @@ A Sudoku project focused on logical problem-solving.
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
 - **GitHub:** [@anayush87](https://github.com/anayush87)
-- **Mail at:** [anayush87@gmail.com](mailto:anayush87@gmail.com
-- **Explore my repositories:** [github.com/anayush87?tab=repositories](https://github.com/anayush87?tab=repositories)
+- **Email:** [anayush87@gmail.com](mailto:anayush87@gmail.com)
+- **Repositories:** [Explore my projects](https://github.com/anayush87?tab=repositories)
 
 ---
 
