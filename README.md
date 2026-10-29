@@ -84,12 +84,10 @@ A Sudoku project focused on logical problem-solving.
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=pie&theme=tokyonight&hide_border=true"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=anayush87&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
     alt="Most Used Programming Languages"
   />
 </div>
-
----
 
 ## 💡 Areas I'm Exploring
 
