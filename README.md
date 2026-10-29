@@ -55,20 +55,30 @@ Building practical applications with **Java, Spring Boot, MERN, and Generative A
 
 ## 🚀 Featured Projects
 
-### 🏥 [ReMed — Medical Equipment Management & Sharing Platform](https://github.com/anayush87/remed)
-A MERN-stack platform concept for listing, discovering, and requesting reusable medical equipment. Designed to help healthcare providers improve equipment utilization and reduce procurement friction.
+### 🛡️ [NIDS_IBM](https://github.com/anayush87/NIDS_IBM)
+Network Intrusion Detection model built on IBM Cloud.
 
-**Focus:** React, Node.js, Express.js, MongoDB, REST APIs
+**Tech:** Jupyter Notebook, IBM Cloud
 
-### 🗺️ [AI Group Trip Planner](https://github.com/anayush87/AIGroupTripPlanner)
-An AI-assisted trip-planning project focused on generating travel itineraries for group trips.
+### 💰 [PERSONAL-FINANCE-MANAGEMENT-PLATFORM](https://github.com/anayush87/PERSONAL-FINANCE-MANAGEMENT-PLATFORM)
+Personal finance web application to manage daily expenses.
 
-**Focus:** AI integration, application development
+**Tech:** Java
 
-### 🧠 [Data Structures & Algorithms](https://github.com/anayush87/DSA)
-My practice repository for learning and implementing data structures and algorithms, including problem-solving exercises.
+### 🏥 [ReMed](https://github.com/anayush87/remed)
+Medical equipment management and sharing platform designed to help healthcare providers list, discover, and request reusable medical equipment.
 
-**Focus:** Java, algorithms, coding practice
+**Tech:** JavaScript
+
+### 🏙️ [SmartUrbanPlanning](https://github.com/anayush87/SmartUrbanPlanning)
+AI-powered urban planning decision-support system that analyzes city data and user inputs to recommend smarter infrastructure and resource allocation.
+
+**Tech:** Java
+
+### 🧩 [SUDOKU](https://github.com/anayush87/SUDOKU)
+A Sudoku project focused on logical problem-solving.
+
+**Tech:** Python
 
 ---
 
