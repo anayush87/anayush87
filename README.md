@@ -80,6 +80,15 @@ A Sudoku project focused on logical problem-solving.
 
 **Tech:** Python
 
+## 📊 Most Used Languages
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anayush87&layout=pie&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
+</div>
+
 ---
 
 ## 💡 Areas I'm Exploring
